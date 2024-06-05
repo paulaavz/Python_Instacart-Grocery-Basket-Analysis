@@ -52,7 +52,10 @@ The data was analyzed using Python and the following libraries:
 - Matplotlib: for data visualizations
 - SciPy: for mathematical equations
 
-# Project  Deliverables :
+# Project  Deliverables 
+The final report presented in Excel.
+
+# Documents provided:
 The project files are divided between the following folders:
 
 #### ● 01 Project Management: 
