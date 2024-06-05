@@ -35,11 +35,11 @@ I finished up by presenting my findings to the stakeholders at Instacart.
 
 # Data
 
-●	[Customer Data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+-	[Customer Data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
 
-●	[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+-	[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
-●	Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) on <date>.
+-	Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) on <date>.
 
 # Tools used:
 
@@ -55,25 +55,25 @@ The data was analyzed using Python and the following libraries:
 # Project  Deliverables :
 The project files are divided between the following folders:
 
-#### 01 Project Management: 
+#### ● 01 Project Management: 
 - Project Brief
 - Data Dictionary.
 
-#### 02 Data: 
+#### ● 02 Data: 
 Separated into two subfolders Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
 
 - Original Data
 - Prepared Data
 
-#### 03 Scripts: 
+#### ● 03 Scripts: 
 The Jupyter notebooks containing the coding for the analysis.
 
-#### 04 Analysis: 
+#### ● 04 Analysis: 
 The Visualizations subfolder contains the visualizations used for developing and explaining insights.
 
 - Visualizations
 
-#### 05 Sent to Client: 
+#### ● 05 Sent to Client: 
 The final report presented in Excel, including: 
 - Population Flow
 - Consistency checks
