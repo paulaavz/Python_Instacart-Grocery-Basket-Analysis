@@ -1,7 +1,7 @@
 # Python_Instacart_Grocery_Basket_Analysis
 Used Python to wrangle and analyze multiple datasets for Instacart. Created new columns and flags for customer profiling, analyzed order behavior across customer groups, and identified key data connections. Compiled findings and recommendations into a comprehensive report for Instacart stakeholders.
 
-![image](https://github.com/paulaavz/Python_Instacart-Grocery-Basket-Analysis/assets/140116751/68b7dd48-3597-46be-a225-56ae6867f988)
+![Instacart_Logo_Kale_PMS](https://github.com/paulaavz/Python_Instacart-Grocery-Basket-Analysis/assets/140116751/bb6b12cb-af3c-45cc-9c12-e27229d98619)
 
 # Project Overview:
 For this project I took the role of a data analyst at a grocery-delivery company, Instacart.
